@@ -46,4 +46,4 @@ For this section considering symmetric workers with the same transmitting power 
 
 
 
-
+To see the task completion time result please check Comparison of Task Completion Time.ipynb and to see the total cost of the master node for static and dynamic cases please check ,
