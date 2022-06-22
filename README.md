@@ -15,7 +15,19 @@ where rewards are given using the following equation:
 
 
 
+to quarantee the convex payoff maximization problem of workers, alpha should satisfy the following inequality:
+
+
+<img width="66" alt="image" src="https://user-images.githubusercontent.com/87864575/175114900-7f40a53a-790a-4d1b-b6ae-4cdc078499a7.png">
+
+
+where cost function and the total completion time for each worker are given as follows:
+
+
+
 <img width="92" alt="image" src="https://user-images.githubusercontent.com/87864575/175113385-54ebb7aa-c9df-4d7d-a556-b54a478c4058.png">
+
+
 <img width="140" alt="image" src="https://user-images.githubusercontent.com/87864575/175113448-4e4f8862-3a82-40a6-8ded-93bd840ba1ef.png">
 
 
