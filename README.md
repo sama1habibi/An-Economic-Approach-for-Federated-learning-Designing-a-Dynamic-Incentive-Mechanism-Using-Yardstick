@@ -34,6 +34,16 @@ In the implementation part the total cost of master node and the task completion
 
 # Dynamic Scenario
 
+In the dynamic scenario it is considered that workers are rewarded using yardstick pricing method as follows:
+
+<img width="127" alt="image" src="https://user-images.githubusercontent.com/87864575/175115969-3c8f7795-73f8-4ca2-a2ce-a7e77424587a.png">
+
+
+For this section considering symmetric workers with the same transmitting power and cost function, the task completion time considerring different allocated task load also total cost of master node is implemented.
+
+# Implementation
+
+
 
 
 
