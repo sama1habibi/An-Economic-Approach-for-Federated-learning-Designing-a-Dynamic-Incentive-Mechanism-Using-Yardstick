@@ -48,6 +48,12 @@ yardstick pricing rule which is the average cost of the all users participating 
 
 
 
+<img width="376" alt="image" src="https://user-images.githubusercontent.com/87864575/175119541-e087d9fb-8f38-48de-aeee-f190dd79f131.png">
+
+
+
+
+
 
 
 
