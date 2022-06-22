@@ -42,8 +42,14 @@ In the dynamic scenario it is considered that workers are rewarded using yardsti
 For this section considering symmetric workers with the same transmitting power and cost function, the task completion time considerring different allocated task load also total cost of master node is implemented.
 
 # Implementation
+In this section we aim to compare the static and dynamic scenarios and prove that proposed dynamic yardstick incentive mechanism causes to lower total cost for the master node compared to the static case and using this mechanism task completion time of the workers is lower that the time of static case that helps the master node finish the total task in shorter time. We considered that β and ϵ are same for all users considering the symmetric users and their value is a random number between 0 and 1. α in the static case is assumed such that satisfy the mentioned inequality to guarantee the maximization problem of workers.
+For simplicity of implementation symmetric workers are considered. Thus transmitting power and channel rate are same for all workers thus communication time is assumed to be a constant value and computation time is just based on the allocated task load q. Thus total completion time of each workers task is a linear function based on q. Rewards are given to user based on Ri = Q−qi(Ri). In the Dynamic case, It is considered that reward is given to users based on
+yardstick pricing rule which is the average cost of the all users participating in the task completion other that user i.
 
 
 
 
-To see the task completion time result please check Comparison of Task Completion Time.ipynb and to see the total cost of the master node for static and dynamic cases please check ,
+
+
+
+To see the task completion time result please check Comparison of Task Completion Time.ipynb and to see the total cost of the master node for static and dynamic cases please check Comparison of Total Cost of the Master Node.ipynb.
