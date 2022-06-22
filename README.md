@@ -30,4 +30,10 @@ where cost function and the total completion time for each worker are given as f
 
 <img width="140" alt="image" src="https://user-images.githubusercontent.com/87864575/175113448-4e4f8862-3a82-40a6-8ded-93bd840ba1ef.png">
 
+In the implementation part the total cost of master node and the task completion time for workers considering different allocated task loads to workers are implemented for static case.
+
+# Dynamic Scenario
+
+
+
 
